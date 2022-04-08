@@ -2,6 +2,7 @@
 
 import React, { useState, useRef } from 'react';
 import { useOnClickOutside } from '@app/hooks';
+
 import './styles.scss';
 
 type SelectProps = {
